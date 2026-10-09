@@ -7,7 +7,7 @@ I build robust, low-latency Artificial Intelligence systems and agentic workflow
 ### 🧠 Core Directives & Compute Focus
 - **Architecture:** Zero-Trust Middleware for AI Agents, LLM Threat Intelligence.
 - **Optimization:** C++ Memory Management, Execution Latency Reduction, and Competitive Problem Solving.
-- **Current Status:** Accelerated B.Sc. in AI & Cybersecurity (Expected June 2027) | **GPA: 3.2 (Top 5%)** | **0% Military Latency (Exempted)**.
+- **Current Status:** Accelerated B.Sc. in AI & Cybersecurity (Expected June 2027) | **0% Military Latency (Exempted)**.
 
 ---
 
