@@ -1,13 +1,13 @@
-# ⚙️ Ziad A. Mashaly | AI Architect & Vulnerability Researcher
+# ⚙️ Ziad A. Mashaly | AI Architect & Algorithm Optimization Engineer
 
 > *"Optimizing for the Worst-Case Scenario. The Best-Case is just Overfitting."*
 
-I build secure, low-latency Artificial Intelligence systems and agentic workflows. Bridging the gap between competitive algorithmic optimization (C++) and hardware-level cybersecurity. 
+I build robust, low-latency Artificial Intelligence systems and agentic workflows. Bridging the gap between competitive algorithmic optimization (C++) and hardware-level AI security.
 
 ### 🧠 Core Directives & Compute Focus
-- **Low-Level AI & Security Architectures:** Software-Induced Fault Injection (SIFI) & AI-assisted rapid prototyping.
-- **Algorithmic Optimization:** C++ Memory Management, Execution Latency Reduction, and Competitive Problem Solving.
-- **Current Status:** Accelerated B.Sc. in AI & Cybersecurity (Expected June 2027) | **0% Military Latency (Exempted)**.
+- **Architecture:** Zero-Trust Middleware for AI Agents, LLM Threat Intelligence.
+- **Optimization:** C++ Memory Management, Execution Latency Reduction, and Competitive Problem Solving.
+- **Current Status:** Accelerated B.Sc. in AI & Cybersecurity (Expected June 2027) | **GPA: 3.2 (Top 5%)** | **0% Military Latency (Exempted)**.
 
 ---
 
@@ -16,9 +16,8 @@ I build secure, low-latency Artificial Intelligence systems and agentic workflow
 | Domain | Achievement / Metric | Impact |
 | :--- | :--- | :--- |
 | **Research (IEEE)** | Executed 3,560 hardware trials on ESP32 targeting AES-256. | Engineered a 94.2% state restoration defense against SIFI attacks. |
-| **Cyber (CTF - Pwn)** | Ranked #4 in Egypt, #97 Worldwide on CTFtime. | Deep understanding of system exploitation and memory safety. |
-| **Algorithms (C++)** | ECPC Finalist (Top 6% nationwide out of 3,000+ teams). | High proficiency in Time Complexity and optimal problem-solving. |
-| **Leadership** | Grew ICPC university community teams by 525%. | Managed on-ground logistics for 10,000+ contestants. |
+| **Algorithms (C++)** | **2x ECPC Finalist** (Top 6% nationwide out of 3,000+ teams). | High proficiency in Time/Space Complexity and optimal problem-solving. |
+| **Leadership** | President of ICPC Delta University Community. | Spearheaded strategic outreach yielding a **525%** net growth in official competing teams. |
 
 ---
 
