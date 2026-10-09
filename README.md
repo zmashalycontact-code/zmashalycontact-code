@@ -1,4 +1,4 @@
-# ⚙️ Ziad A. Mashaly | AI Architect & Algorithm Optimization Engineer
+# ⚙️ Ziad A. Mashaly | AI Architect
 
 > *"Optimizing for the Worst-Case Scenario. The Best-Case is just Overfitting."*
 
