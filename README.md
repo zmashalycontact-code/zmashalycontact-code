@@ -17,7 +17,7 @@ I build robust, low-latency Artificial Intelligence systems and agentic workflow
 | :--- | :--- | :--- |
 | **Research (IEEE)** | Executed 3,560 hardware trials on ESP32 targeting AES-256. | Engineered a 94.2% state restoration defense against SIFI attacks. |
 | **Algorithms (C++)** | **2x ECPC Finalist** (Top 6% nationwide out of 3,000+ teams). | High proficiency in Time/Space Complexity and optimal problem-solving. |
-| **Leadership** | President of ICPC Delta University Community. | Spearheaded strategic outreach yielding a **525%** net growth in official competing teams. |
+| **Leadership** | President of ICPC Delta University Community. | Spearheaded strategic outreach yielding a **400%** net growth in official competing teams. |
 
 ---
 
